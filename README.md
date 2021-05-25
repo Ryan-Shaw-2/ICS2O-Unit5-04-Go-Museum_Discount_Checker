@@ -1,1 +1,2 @@
 # ICS2O-Unit5-04-Go-Museum_Discount_Checker
+[![GitHub's Super Linter](https://github.com/Ryan-Shaw-2/ICS2O-Unit5-04-Go-Museum_Discount_Checker/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/Ryan-Shaw-2/ICS2O-Unit5-04-Go-Museum_Discount_Checker/actions)
